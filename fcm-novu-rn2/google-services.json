@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950562337233",
+    "project_id": "rna2-b9e27",
+    "storage_bucket": "rna2-b9e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950562337233:android:02fab566909b4b8addf0f0",
+        "android_client_info": {
+          "package_name": "com.sumitsaurabh927.fcmnovurn2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTC28lJqkoVLQpBSYbVYu9jWffquIT_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
